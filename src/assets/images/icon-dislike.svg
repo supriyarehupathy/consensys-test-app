@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-dislike</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lily-desktop-web-screens-RD4---Search-Updates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-web-home-recommendations" transform="translate(-720.000000, -1896.000000)" fill-rule="nonzero" fill="#403F4C">
+            <g id="product-recommendation-small" transform="translate(674.000000, 1458.000000)">
+                <g id="icons" transform="translate(30.000000, 422.000000)">
+                    <g id="icon">
+                        <polygon id="icon-dislike" points="32 17.6114286 30.3885714 16 24 22.3885714 17.6114286 16 16 17.6114286 22.3885714 24 16 30.3885714 17.6114286 32 24 25.6114286 30.3885714 32 32 30.3885714 25.6114286 24"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
